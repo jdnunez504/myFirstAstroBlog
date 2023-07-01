@@ -34,6 +34,19 @@ h1 {
     background-color: #ff9776;
 }
 
+/** Dark Theme Start **/
+
+html.dark {
+    background-color: #0d0950;
+    color: #fff;
+}
+
+.dark .nav-links a {
+    color: #fff;
+}
+
+/** Dark Theme End **/
+
 .nav-links {
     width: 100%;
     top: 5rem;
